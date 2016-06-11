@@ -5,7 +5,7 @@ Requires at least: 2.3
 Tested up to: 2.7
 Stable tag: 0.3.4
 
-Allows you to mirror your WordPress media uploads over to Amazon S3 for storage and delivery.
+Allows you to mirror your WordPress media uploads over to Amazon S3 for storage and delivery. Updated with CloudFront support.
 
 == Description ==
 
@@ -17,7 +17,7 @@ Once setup, this plugin transparently integrates with your WordPress blog. File 
 
 == Installation ==
 
-1. Upload `tantan-s3` to the `/wp-content/plugins/` directory
+1. Upload `tantan-s3-cloudfront` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Configure the plugin in the 'Options' (or 'Settings') screen by following the onscreen prompts.
 
